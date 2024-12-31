@@ -2,7 +2,7 @@
 import copy
 import json
 from collections import defaultdict
-from typing import List, Callable, Union
+from typing import List
 
 # Package/library imports
 from openai import OpenAI
